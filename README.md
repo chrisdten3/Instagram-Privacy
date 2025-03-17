@@ -77,7 +77,7 @@ I chose **Python + Streamlit** for this project because:
 ✅ **Pydeck's map integration** makes it easy to visualize login activity  
 ✅ **Pandas & Matplotlib** efficiently handle and summarize large amounts of data  
 
-**Limitations of our choices:**  
+**Limitations of my choices:**  
 ⚠️ **Data accuracy depends on Instagram's archive** – some insights (like in-person visits) are only available if Instagram collects them  
 ⚠️ **Geolocation is approximate** – IP addresses may not always correspond to actual locations  
 ⚠️ **Requires a manual upload** – Users must download and unzip their data before running the tool  
